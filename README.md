@@ -18,7 +18,7 @@ To run the DegenToken contract on Remix IDE, follow these steps:
 
 4. **Compile the Contract:**
    - Click on the "Solidity Compiler" tab on the right side of the IDE.
-   - Select the appropriate compiler version (in this case, `0.8.0`).
+   - Select the appropriate compiler version (in this case, `0.8.20`).
    - Click on the "Compile DegenToken.sol" button to compile the contract.
 
 5. **Deploy the Contract:**
