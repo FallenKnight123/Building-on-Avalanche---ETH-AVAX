@@ -61,4 +61,3 @@ contract DegenToken is ERC20, Ownable {
         return string(strBytes);
     }
 }
-now create a readme file in github that shows how to run it on remix ide
